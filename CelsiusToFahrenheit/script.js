@@ -1,5 +1,5 @@
 //degree(grau)
-
+// transformDegree('50F')
 
 function transformDegree(degree) {
     const celsiusExists = degree.toUpperCase().includes('C')
